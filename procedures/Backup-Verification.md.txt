@@ -1,0 +1,3 @@
+Backup verification
+1) logon the commvault
+2) Check latest backup for server list

@@ -1,0 +1,4 @@
+#New employee onboarding
+- [ ] Check employee worked at company before
+- [x] Check laptop supplied
+- [ ] Check induction booked
